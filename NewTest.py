@@ -1,1 +1,1 @@
-Print("new test")
+print ("new test")
