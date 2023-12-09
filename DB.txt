@@ -1,0 +1,6 @@
+UserID (auto incr)
+ID_Telegram (number)
+Type (boolean)
+LastLogin (data)
+Blocked (boolean)
+ActionTime (int)
