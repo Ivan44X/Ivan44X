@@ -3,7 +3,6 @@ from telebot import types
 
 bot = telebot.TeleBot('')
 
-
 @bot.message_handler(commands=['start'])
 def markup (message):
     markup = types.ReplyKeyboardMarkup ()
